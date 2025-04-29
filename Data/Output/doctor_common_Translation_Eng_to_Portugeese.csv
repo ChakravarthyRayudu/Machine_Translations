@@ -1,0 +1,119 @@
+,game,key,isStatic,contentType,character,gender,English,_id,GT,Portuguese
+0,Doctor_Common,doctut_end,0,VO,Narrator,Female,Thank You! You're all set to Play Now,666046ac314c693233a22a0f,,Obrigado! Está tudo pronto para Jogar Agora
+1,Doctor_Common,num_100_text,0,Text,,,100,666046ac314c693233a22a23,,100
+2,Doctor_Common,num_101_text,0,Text,,,101,666046ac314c693233a22a65,,101
+3,Doctor_Common,num_102_text,0,Text,,,102,666046ac314c693233a22a8a,,102
+4,Doctor_Common,num_110_text,0,Text,,,110,666046ac314c693233a22aca,,110
+5,Doctor_Common,num_69_text,0,Text,,,69,666046ac314c693233a22b08,,69
+6,Doctor_Common,num_70_text,0,Text,,,70,666046ac314c693233a22b5c,,70
+7,Doctor_Common,num_71_text,0,Text,,,71,666046ac314c693233a22b7c,,71
+8,Doctor_Common,num_72_text,0,Text,,,72,666046ac314c693233a22bb9,,72
+9,Doctor_Common,num_74_text,0,Text,,,74,666046ac314c693233a22c06,,74
+10,Doctor_Common,num_80_text,0,Text,,,80,666046ad314c693233a22c54,,80
+11,Doctor_Common,num_89_text,0,Text,,,89,666046ad314c693233a22c7d,,89
+12,Doctor_Common,num_90_text,0,Text,,,90,666046ad314c693233a22ca1,,90
+13,Doctor_Common,tdoc_bandage_hold_fig,0,VO,Narrator,Female,Hold the bandage figurine as shown.,666046ad314c693233a22cce,,Segurar a figura da ligadura como indicado.
+14,Doctor_Common,tdoc_bandage_text,0,Text,,,Place the bandage figurine.,666046ad314c693233a22d09,,Colocar a figura da ligadura.
+15,Doctor_Common,tdoc_bandage_tut1,0,VO,Narrator,Female,Place the bandage figurine on the highlighted area.,666046ad314c693233a22d46,,Colocar a figura da ligadura na zona destacada.
+16,Doctor_Common,tdoc_bandage_tut2,0,Both,Narrator,Female,Move the figurine to the affected area.,666046ad314c693233a22d7a,,Deslocar a estatueta para a zona afetada.
+17,Doctor_Common,tdoc_bandage_tut3,0,Both,Narrator,Female,Drag the figurine to apply the bandage.,666046ad314c693233a22d96,,Arraste a figura para aplicar a ligadura.
+18,Doctor_Common,tdoc_bandage_tut4,0,VO,Narrator,Female,Place again and drag until the entire injury is covered.,666046ad314c693233a22de3,,Voltar a colocar e arrastar até cobrir toda a lesão.
+19,Doctor_Common,tdoc_bloodpressure_hold_figurine,0,VO,Narrator,Female,Hold the blood pressure figurine as shown.,666046ad314c693233a22e1f,,Segurar a figura da tensão arterial como indicado.
+20,Doctor_Common,tdoc_bloodpressure_tut1,0,VO,Narrator,Female,Place the blood pressure figurine on the highlighted area.,666046ad314c693233a22e56,,Colocar a figura da tensão arterial na zona destacada.
+21,Doctor_Common,tdoc_bloodpressure_tut2,0,VO,Narrator,Female,Press the button on the figurine until the reading appears.,666046ad314c693233a22e82,,Premir o botão da figura até aparecer a leitura.
+22,Doctor_Common,tdoc_bp_text,0,Text,,,Place the blood pressure figurine.,666046ad314c693233a22eaf,,Colocar a figura da tensão arterial.
+23,Doctor_Common,tdoc_bpm_label,0,Text,,,BPM,666046ad314c693233a22ede,,BPM
+24,Doctor_Common,tdoc_button_text,0,Text,,,Press the button to shine the light.,666046ad314c693233a22efe,,Prima o botão para fazer brilhar a luz.
+25,Doctor_Common,tdoc_clippers_name,0,Text,,,Clippers,666046ad314c693233a22f21,,Clippers
+26,Doctor_Common,tdoc_drag_scan_text,0,Text,,,Drag to scan the affected area,666046ad314c693233a22f7e,,Arrastar para digitalizar a área afetada
+27,Doctor_Common,tdoc_drop_medicine_text,0,Text,,,Tilt to drop the medicine.,666046ad314c693233a22fb1,,Inclinar para deixar cair o medicamento.
+28,Doctor_Common,tdoc_figurine_text,0,Text,,,Place the figurine.,666046ad314c693233a23000,,Colocar a estatueta.
+29,Doctor_Common,tdoc_flashlight_hold_figurine,0,VO,Narrator,Female,Hold the flashlight figurine as shown.,666046ad314c693233a23026,,Segurar a figura da lanterna como indicado.
+30,Doctor_Common,tdoc_flashlight_text,0,Text,,,Place the flashlight figurine.,666046ae314c693233a2306a,,Colocar a figura da lanterna.
+31,Doctor_Common,tdoc_flashlight_tut1,0,VO,Narrator,Female,Place the flashlight figurine on the highlighted area.,666046ae314c693233a23097,,Colocar a figura da lanterna na zona destacada.
+32,Doctor_Common,tdoc_flashlight_tut2,0,VO,Narrator,Female,Press the button on the figurine to shine the light.,666046ae314c693233a230bd,,Prima o botão da figura para acender a luz.
+33,Doctor_Common,tdoc_foreceps_name,0,Text,,,Forceps,666046ae314c693233a230e3,,Fórceps
+34,Doctor_Common,tdoc_heart-rate_text,0,Text,,,Hold until the heart rate appears.,666046ae314c693233a23117,,Manter premido até aparecer o ritmo cardíaco.
+35,Doctor_Common,tdoc_high_text,0,Text,,,High,666046ae314c693233a23154,,Elevado
+36,Doctor_Common,tdoc_hold,0,Text,,,Hold!,666046ae314c693233a2317f,,Espera!
+37,Doctor_Common,tdoc_hold_choose_text,0,Text,,,Hold to choose the tool.,666046ae314c693233a231a3,,Mantenha premido para selecionar a ferramenta.
+38,Doctor_Common,tdoc_lets_play,0,Text,,,Let's play,666046ae314c693233a231fa,,Vamos jogar
+39,Doctor_Common,tdoc_low_text,0,Text,,,Low,666046ae314c693233a23221,,Baixa
+40,Doctor_Common,tdoc_magnifier_tut1,0,Both,Narrator,Female,Hold the magnifier figurine with both hands.,666046ae314c693233a2325d,,Segurar a figura da lupa com as duas mãos.
+41,Doctor_Common,tdoc_magnifier_tut2,0,Both,Narrator,Female,Place the magnifier figurine on the highlighted area.,666046ae314c693233a23280,,Colocar a figura da lupa na zona destacada.
+42,Doctor_Common,tdoc_magnifier_tut3,0,Both,Narrator,Female,Rotate the handle to zoom in.,666046ae314c693233a232c9,,Rodar a pega para aumentar o zoom.
+43,Doctor_Common,tdoc_medicine_hold_figurine,0,VO,Narrator,Female,Hold the medicine figurine as shown.,666046ae314c693233a232f9,,Segurar a estatueta de medicamento como indicado.
+44,Doctor_Common,tdoc_medicine_text,0,Text,,,Place the medicine figurine.,666046ae314c693233a23322,,Colocar a estatueta do medicamento.
+45,Doctor_Common,tdoc_medicine_tut1,0,VO,Narrator,Female,Place the medicine figurine on the highlighted area.,666046ae314c693233a233a8,,Colocar a estatueta de medicamento na zona assinalada.
+46,Doctor_Common,tdoc_medicine_tut2,0,VO,Narrator,Female,Tilt the figurine to drop the medicine.,666046ae314c693233a233c6,,Inclinar a estatueta para deixar cair o medicamento.
+47,Doctor_Common,tdoc_menu_text,0,Text,,,Hold until the menu appears.,666046ae314c693233a23404,,Manter premido até aparecer o menu.
+48,Doctor_Common,tdoc_normal_text,0,Text,,,Normal,666046ae314c693233a23448,,Normal
+49,Doctor_Common,tdoc_place_drag_text,0,Text,,,Place again and drag to cover the entire wound.,666046ae314c693233a2348e,,Voltar a colocar e arrastar até cobrir toda a ferida.
+50,Doctor_Common,tdoc_place_spray_text,0,Text,,,Place the spray figurine.,666046ae314c693233a234d2,,Colocar a estatueta de spray.
+51,Doctor_Common,tdoc_press_spray_text,0,Text,,,Press the button to spray.,666046ae314c693233a2350d,,Premir o botão para pulverizar.
+52,Doctor_Common,tdoc_reading_text,0,Text,,,Press the button until the reading appears.,666046af314c693233a23534,,Prima o botão até aparecer a leitura.
+53,Doctor_Common,tdoc_remove_figurine_text,0,Text,,,Remove the figurine to keep treating!,666046af314c693233a23556,,Retire a estatueta para continuar a tratar!
+54,Doctor_Common,tdoc_removefig1,0,Both,Narrator,Female,Remove the figurine to continue the treatment!,666046af314c693233a2359d,,Retirar a estatueta para continuar o tratamento!
+55,Doctor_Common,tdoc_scan_area_text,0,Text,,,Drag to scan the affected area.,666046af314c693233a235e5,,Arraste para digitalizar a área afetada.
+56,Doctor_Common,tdoc_scissor_figurine_text,0,Text,,,Remove the figurine to keep treating!,666046af314c693233a23612,,Retire a estatueta para continuar a tratar!
+57,Doctor_Common,tdoc_scissors_hold_figurine,0,VO,Narrator,Female,Hold the scissors figurine as shown.,666046af314c693233a23641,,Segurar a figura da tesoura como indicado.
+58,Doctor_Common,tdoc_scissors_name,0,Text,,,Scissors,666046af314c693233a23674,,Tesoura
+59,Doctor_Common,tdoc_scissors_text,0,Text,,,Place the scissors figurine.,666046af314c693233a236ab,,Colocar a estatueta da tesoura.
+60,Doctor_Common,tdoc_scissors_tut1,0,VO,Narrator,Female,Place the Scissors figurine on the highlighted area.,666046af314c693233a23714,,Colocar a estatueta da Tesoura na zona destacada.
+61,Doctor_Common,tdoc_scissors_tut2,0,VO,Narrator,Female,Move the figurine as shown.,666046af314c693233a23739,,Deslocar a figura como indicado.
+62,Doctor_Common,tdoc_scissors_tut3,0,VO,Narrator,Female,"When the menu appears, swipe left or right.",666046af314c693233a2377d,,"Quando o menu aparecer, deslize o dedo para a esquerda ou para a direita."
+63,Doctor_Common,tdoc_scissors_tut4,0,VO,Narrator,Female,Hold the figurine to choose the tool that you want.,666046af314c693233a2379b,,Segura a figura para escolher a ferramenta que pretendes.
+64,Doctor_Common,tdoc_scissors_tut5,0,VO,Narrator,Female,Drag the figurine to start cutting.,666046af314c693233a237c7,,Arraste a figura para começar a cortar.
+65,Doctor_Common,tdoc_skip_text,0,Text,,,Skip,666046af314c693233a237f9,,Saltar
+66,Doctor_Common,tdoc_spray_area_text,0,Text,,,Spray until the affected area is covered.,666046af314c693233a2386b,,Pulverizar até cobrir a área afetada.
+67,Doctor_Common,tdoc_spray_hold_figurine,0,VO,Narrator,Female,Hold the spray figurine as shown.,666046af314c693233a2387f,,Segurar a estatueta de spray como indicado.
+68,Doctor_Common,tdoc_spray_text,0,Text,,,Spray many times until the affected area is covered completely,666046af314c693233a238ca,,Pulverizar várias vezes até que a área afetada esteja completamente coberta
+69,Doctor_Common,tdoc_spray_tut1,0,VO,Narrator,Female,Place the spray figurine on the highlighted area.,666046af314c693233a23908,,Colocar a estatueta de spray na zona destacada.
+70,Doctor_Common,tdoc_spray_tut2,0,VO,Narrator,Female,Press the button to begin spraying.,666046b0314c693233a23938,,Premir o botão para iniciar a pulverização.
+71,Doctor_Common,tdoc_spray_tut3,0,VO,Narrator,Female,Drag around to spray the affected area.,666046b0314c693233a23968,,Arrastar para pulverizar a zona afetada.
+72,Doctor_Common,tdoc_spray_tut4,0,Both,Narrator,Female,Spray many times until the affected area is covered completely.,666046b0314c693233a239c3,,Pulverizar várias vezes até que a área afetada esteja completamente coberta.
+73,Doctor_Common,tdoc_stethoscope_hold_figurine,0,VO,Narrator,Female,Hold the stethoscope figurine as shown.,666046b0314c693233a239df,,Segurar a figura do estetoscópio como indicado.
+74,Doctor_Common,tdoc_stethoscope_text,0,Text,,,Place the stethescope figurine.,666046b0314c693233a23a14,,Colocar a estatueta do estetoscópio.
+75,Doctor_Common,tdoc_stethoscope_tut1,0,VO,Narrator,Female,Place the stethoscope figurine on the highlighted area.,666046b0314c693233a23a6e,,Colocar a figura do estetoscópio na zona destacada.
+76,Doctor_Common,tdoc_stethoscope_tut2,0,VO,Narrator,Female,Hold the figurine until the heart rate appears.,666046b0314c693233a23abf,,Segure a figura até aparecer o ritmo cardíaco.
+77,Doctor_Common,tdoc_swipe_text,0,Text,,,Swipe left or right.,666046b0314c693233a23add,,Deslize para a esquerda ou para a direita.
+78,Doctor_Common,tdoc_syringe_hold_figurine,0,VO,Narrator,Female,Hold the syringe figurine as shown.,666046b0314c693233a23b19,,Segurar a figura da seringa como indicado.
+79,Doctor_Common,tdoc_syringe_text,0,Text,,,Place the syringe figurine.,666046b0314c693233a23b40,,Colocar a figura da seringa.
+80,Doctor_Common,tdoc_syringe_tut1,0,VO,Narrator,Female,Place the syringe figurine on the highlighted area.,666046b0314c693233a23b6f,,Colocar a figura da seringa na zona destacada.
+81,Doctor_Common,tdoc_syringe_tut2,0,Both,Narrator,Female,Hold the figurine with both hands.,666046b0314c693233a23ba3,,Segurar a estatueta com as duas mãos.
+82,Doctor_Common,tdoc_syringe_tut3,0,Both,Narrator,Female,Pull the plunger to fill up the syringe.,666046b0314c693233a23bc6,,Puxar o êmbolo para encher a seringa.
+83,Doctor_Common,tdoc_syringe_tut4,0,Both,Narrator,Female,Push the plunger to empty the syringe.,666046b0314c693233a23bf3,,Empurrar o êmbolo para esvaziar a seringa.
+84,Doctor_Common,tdoc_temperature_100.0,0,Text,,,100.0 °F,666046b0314c693233a23c1d,,100.0 °F
+85,Doctor_Common,tdoc_temperature_101.0,0,Text,,,101.0 °F,666046b0314c693233a23c59,,101.0 °F
+86,Doctor_Common,tdoc_temperature_102.0,0,Text,,,102.0 °F,666046b0314c693233a23c7d,,102.0 °F
+87,Doctor_Common,tdoc_temperature_103.0,0,Text,,,103.0 °F,666046b0314c693233a23cc9,,103.0 °F
+88,Doctor_Common,tdoc_temperature_104.0,0,Text,,,104.0 °F,666046b0314c693233a23d0f,,104.0 °F
+89,Doctor_Common,tdoc_temperature_97.0,0,Text,,,97.0 °F,666046b0314c693233a23d6c,,97.0 °F
+90,Doctor_Common,tdoc_temperature_97.8,0,Text,,,97.8 °F,666046b1314c693233a23d9b,,97.8 °F
+91,Doctor_Common,tdoc_temperature_98.0,0,Text,,,98.0 °F,666046b1314c693233a23dd0,,98.0 °F
+92,Doctor_Common,tdoc_temperature_98.6,0,Text,,,98.6 °F,666046b1314c693233a23e1c,,98.6 °F
+93,Doctor_Common,tdoc_temperature_99.8,0,Text,,,99.8 °F,666046b1314c693233a23e45,,99.8 °F
+94,Doctor_Common,tdoc_thermometer_hold_figurine,0,VO,Narrator,Female,Hold the thermometer figurine as shown.,666046b1314c693233a23e76,,Segurar a figura do termómetro como indicado.
+95,Doctor_Common,tdoc_thermometer_tut1,0,Both,Narrator,Female,Place the thermometer figurine on the highlighted area.,666046b1314c693233a23e9d,,Colocar a figura do termómetro na zona destacada.
+96,Doctor_Common,tdoc_thermometer_tut2,0,Both,Narrator,Female,Hold the figurine until the temperature appears.,666046b1314c693233a23eda,,Segurar a estatueta até aparecer a temperatura.
+97,Doctor_Common,tdoc_tut_bandage,0,Text,,,Learn to use the bandage figurine!,666046b1314c693233a23f10,,Aprender a utilizar a figura de ligadura!
+98,Doctor_Common,tdoc_tut_bloodpressure,0,Text,,,Learn to use the blood pressure figurine!,666046b1314c693233a23f2a,,Aprender a utilizar o boneco da tensão arterial!
+99,Doctor_Common,tdoc_tut_end,0,VO,Narrator,Female,Great job! You’re all set to play!,666046b1314c693233a23f56,,Bom trabalho! Está tudo pronto para jogar!
+100,Doctor_Common,tdoc_tut_flashlight,0,Text,,,Learn to use the flash light figurine!,666046b1314c693233a23f89,,Aprende a utilizar a estatueta da luz de flash!
+101,Doctor_Common,tdoc_tut_magnifier,0,Text,,,Learn to use the magnifier figurine!,666046b1314c693233a23fa5,,Aprender a utilizar a figura da lupa!
+102,Doctor_Common,tdoc_tut_medicine,0,Text,,,Learn to use the medicine figurine!,666046b1314c693233a23fe4,,Aprender a utilizar a estatueta medicinal!
+103,Doctor_Common,tdoc_tut_scissors,0,Text,,,Learn to use the scissors figurine!,666046b1314c693233a24016,,Aprender a utilizar a figura da tesoura!
+104,Doctor_Common,tdoc_tut_spray,0,Text,,,Learn to use the spray figurine!,666046b1314c693233a2404c,,Aprender a utilizar a estatueta de spray!
+105,Doctor_Common,tdoc_tut_stethoscope,0,Text,,,Learn to use the stethoscope figurine!,666046b1314c693233a24088,,Aprenda a utilizar o estetoscópio!
+106,Doctor_Common,tdoc_tut_syringe,0,Text,,,Learn to use the syringe figurine!,666046b1314c693233a240c7,,Aprender a utilizar a seringa!
+107,Doctor_Common,tdoc_tut_thermometer,0,Text,,,Learn to use the thermometer figurine!,666046b1314c693233a240e2,,Aprenda a utilizar a estatueta do termómetro!
+108,Doctor_Common,tdoc_tut_ultrasound,0,Text,,,Learn to use the ultrasound figurine!,666046b1314c693233a24108,,Aprender a utilizar a estatueta de ultra-sons!
+109,Doctor_Common,tdoc_tut_xray,0,Text,,,Learn to use the X ray figurine!,666046b2314c693233a24147,,Aprender a utilizar a estatueta de raios X!
+110,Doctor_Common,tdoc_ultrasound_hold_figurine,0,VO,Narrator,Female,Hold the ultrasound figurine as shown.,666046b2314c693233a24170,,Segurar a estatueta de ultra-sons como indicado.
+111,Doctor_Common,tdoc_ultrasound_text,0,Text,,,Place the ultrasound figurine.,666046b2314c693233a241b1,,Colocar a estatueta de ultra-sons.
+112,Doctor_Common,tdoc_ultrasound_tut1,0,VO,Narrator,Female,Place the ultrasound figurine on the highlighted area.,666046b2314c693233a241e3,,Colocar a figura de ultra-sons na zona destacada.
+113,Doctor_Common,tdoc_ultrasound_tut2,0,VO,Narrator,Female,Drag the figurine to scan the affected area.,666046b2314c693233a24202,,Arraste a figura para analisar a área afetada.
+114,Doctor_Common,tdoc_xray_hold_figurine,0,VO,Narrator,Female,Hold the X-ray figurine as shown.,666046b2314c693233a24233,,Segurar a figura de raios X como indicado.
+115,Doctor_Common,tdoc_xray_text,0,Text,,,Place the X-ray figurine.,666046b2314c693233a2426e,,Colocar a estatueta de raios X.
+116,Doctor_Common,tdoc_xray_tut1,0,VO,Narrator,Female,Place the X-ray figurine on the highlighted area.,666046b2314c693233a242b2,,Colocar a estatueta de raios X na zona assinalada.
+117,Doctor_Common,tdoc_xray_tut2,0,VO,Narrator,Female,Drag the figurine to scan the affected area.,666046b2314c693233a242da,,Arraste a figura para analisar a área afetada.

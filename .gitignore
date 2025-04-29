@@ -1,0 +1,16 @@
+# Ignore virtual environment folder
+.venv/
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore system files
+.DS_Store
+
+# Ignore credentials
+credentials.yaml
+
+# Ignore sensitive configuration files (if any)
+config.py
+
+# Ignore any other files that should not be pushed

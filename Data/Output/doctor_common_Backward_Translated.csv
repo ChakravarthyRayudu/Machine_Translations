@@ -1,0 +1,119 @@
+game,key,English,Portuguese,English_Back_Translation
+Doctor_Common,doctut_end,Thank You! You're all set to Play Now,Obrigado! Está tudo pronto para Jogar Agora,Thank you! You are all set to play now!
+Doctor_Common,num_100_text,100,100,100
+Doctor_Common,num_101_text,101,101,101
+Doctor_Common,num_102_text,102,102,102
+Doctor_Common,num_110_text,110,110,110
+Doctor_Common,num_69_text,69,69,69
+Doctor_Common,num_70_text,70,70,70
+Doctor_Common,num_71_text,71,71,71
+Doctor_Common,num_72_text,72,72,72
+Doctor_Common,num_74_text,74,74,74
+Doctor_Common,num_80_text,80,80,80
+Doctor_Common,num_89_text,89,89,89
+Doctor_Common,num_90_text,90,90,90
+Doctor_Common,tdoc_bandage_hold_fig,Hold the bandage figurine as shown.,Segurar a figura da ligadura como indicado.,Hold the ligature figure as shown.
+Doctor_Common,tdoc_bandage_text,Place the bandage figurine.,Colocar a figura da ligadura.,Place the ligature figure.
+Doctor_Common,tdoc_bandage_tut1,Place the bandage figurine on the highlighted area.,Colocar a figura da ligadura na zona destacada.,Place the ligature figure in the highlighted area.
+Doctor_Common,tdoc_bandage_tut2,Move the figurine to the affected area.,Deslocar a estatueta para a zona afetada.,Move the figurine to the affected area.
+Doctor_Common,tdoc_bandage_tut3,Drag the figurine to apply the bandage.,Arraste a figura para aplicar a ligadura.,Drag the figure to apply the ligature.
+Doctor_Common,tdoc_bandage_tut4,Place again and drag until the entire injury is covered.,Voltar a colocar e arrastar até cobrir toda a lesão.,Replace and drag until the entire lesion is covered.
+Doctor_Common,tdoc_bloodpressure_hold_figurine,Hold the blood pressure figurine as shown.,Segurar a figura da tensão arterial como indicado.,Hold the blood pressure figure as shown.
+Doctor_Common,tdoc_bloodpressure_tut1,Place the blood pressure figurine on the highlighted area.,Colocar a figura da tensão arterial na zona destacada.,Place the blood pressure figure in the highlighted area.
+Doctor_Common,tdoc_bloodpressure_tut2,Press the button on the figurine until the reading appears.,Premir o botão da figura até aparecer a leitura.,Press the button in the figure until the reading appears.
+Doctor_Common,tdoc_bp_text,Place the blood pressure figurine.,Colocar a figura da tensão arterial.,Place the blood pressure figure.
+Doctor_Common,tdoc_bpm_label,BPM,BPM,BPM
+Doctor_Common,tdoc_button_text,Press the button to shine the light.,Prima o botão para fazer brilhar a luz.,Press the button to make the light shine.
+Doctor_Common,tdoc_clippers_name,Clippers,Clippers,Clippers
+Doctor_Common,tdoc_drag_scan_text,Drag to scan the affected area,Arrastar para digitalizar a área afetada,Drag to scan the affected area
+Doctor_Common,tdoc_drop_medicine_text,Tilt to drop the medicine.,Inclinar para deixar cair o medicamento.,Tilt to drop the medicine.
+Doctor_Common,tdoc_figurine_text,Place the figurine.,Colocar a estatueta.,Place the figurine.
+Doctor_Common,tdoc_flashlight_hold_figurine,Hold the flashlight figurine as shown.,Segurar a figura da lanterna como indicado.,Hold the lantern figure as shown.
+Doctor_Common,tdoc_flashlight_text,Place the flashlight figurine.,Colocar a figura da lanterna.,Place the lantern figure.
+Doctor_Common,tdoc_flashlight_tut1,Place the flashlight figurine on the highlighted area.,Colocar a figura da lanterna na zona destacada.,Place the lantern figure in the highlighted area.
+Doctor_Common,tdoc_flashlight_tut2,Press the button on the figurine to shine the light.,Prima o botão da figura para acender a luz.,Press the button in the figure to turn on the light.
+Doctor_Common,tdoc_foreceps_name,Forceps,Fórceps,Forceps
+Doctor_Common,tdoc_heart-rate_text,Hold until the heart rate appears.,Manter premido até aparecer o ritmo cardíaco.,Hold down until the heart rate appears.
+Doctor_Common,tdoc_high_text,High,Elevado,High
+Doctor_Common,tdoc_hold,Hold!,Espera!,Wait!
+Doctor_Common,tdoc_hold_choose_text,Hold to choose the tool.,Mantenha premido para selecionar a ferramenta.,Press and hold to select the tool.
+Doctor_Common,tdoc_lets_play,Let's play,Vamos jogar,Let&#39;s play
+Doctor_Common,tdoc_low_text,Low,Baixa,Low
+Doctor_Common,tdoc_magnifier_tut1,Hold the magnifier figurine with both hands.,Segurar a figura da lupa com as duas mãos.,Hold the magnifying glass figure with both hands.
+Doctor_Common,tdoc_magnifier_tut2,Place the magnifier figurine on the highlighted area.,Colocar a figura da lupa na zona destacada.,Place the magnifying glass figure in the highlighted area.
+Doctor_Common,tdoc_magnifier_tut3,Rotate the handle to zoom in.,Rodar a pega para aumentar o zoom.,Rotate the handle to zoom in.
+Doctor_Common,tdoc_medicine_hold_figurine,Hold the medicine figurine as shown.,Segurar a estatueta de medicamento como indicado.,Hold the medicine figurine as directed.
+Doctor_Common,tdoc_medicine_text,Place the medicine figurine.,Colocar a estatueta do medicamento.,Place the medicine figurine.
+Doctor_Common,tdoc_medicine_tut1,Place the medicine figurine on the highlighted area.,Colocar a estatueta de medicamento na zona assinalada.,Place the medicine figurine in the marked area.
+Doctor_Common,tdoc_medicine_tut2,Tilt the figurine to drop the medicine.,Inclinar a estatueta para deixar cair o medicamento.,Tilt the figurine to drop the medicine.
+Doctor_Common,tdoc_menu_text,Hold until the menu appears.,Manter premido até aparecer o menu.,Hold down until the menu appears.
+Doctor_Common,tdoc_normal_text,Normal,Normal,Normal
+Doctor_Common,tdoc_place_drag_text,Place again and drag to cover the entire wound.,Voltar a colocar e arrastar até cobrir toda a ferida.,Replace and drag until the entire wound is covered.
+Doctor_Common,tdoc_place_spray_text,Place the spray figurine.,Colocar a estatueta de spray.,Place the spray figurine.
+Doctor_Common,tdoc_press_spray_text,Press the button to spray.,Premir o botão para pulverizar.,Press the button to spray.
+Doctor_Common,tdoc_reading_text,Press the button until the reading appears.,Prima o botão até aparecer a leitura.,Press the button until the reading appears.
+Doctor_Common,tdoc_remove_figurine_text,Remove the figurine to keep treating!,Retire a estatueta para continuar a tratar!,Remove the figurine to continue treating!
+Doctor_Common,tdoc_removefig1,Remove the figurine to continue the treatment!,Retirar a estatueta para continuar o tratamento!,Remove the figurine to continue the treatment!
+Doctor_Common,tdoc_scan_area_text,Drag to scan the affected area.,Arraste para digitalizar a área afetada.,Drag to scan the affected area.
+Doctor_Common,tdoc_scissor_figurine_text,Remove the figurine to keep treating!,Retire a estatueta para continuar a tratar!,Remove the figurine to continue treating!
+Doctor_Common,tdoc_scissors_hold_figurine,Hold the scissors figurine as shown.,Segurar a figura da tesoura como indicado.,Hold the scissors figure as shown.
+Doctor_Common,tdoc_scissors_name,Scissors,Tesoura,Scissors
+Doctor_Common,tdoc_scissors_text,Place the scissors figurine.,Colocar a estatueta da tesoura.,Place the scissor figurine.
+Doctor_Common,tdoc_scissors_tut1,Place the Scissors figurine on the highlighted area.,Colocar a estatueta da Tesoura na zona destacada.,Place the Scissors figurine in the highlighted area.
+Doctor_Common,tdoc_scissors_tut2,Move the figurine as shown.,Deslocar a figura como indicado.,Move the figure as indicated.
+Doctor_Common,tdoc_scissors_tut3,"When the menu appears, swipe left or right.","Quando o menu aparecer, deslize o dedo para a esquerda ou para a direita.","When the menu appears, swipe left or right."
+Doctor_Common,tdoc_scissors_tut4,Hold the figurine to choose the tool that you want.,Segura a figura para escolher a ferramenta que pretendes.,Hold the figure to choose the tool you want.
+Doctor_Common,tdoc_scissors_tut5,Drag the figurine to start cutting.,Arraste a figura para começar a cortar.,Drag the shape to start cutting.
+Doctor_Common,tdoc_skip_text,Skip,Saltar,Jump
+Doctor_Common,tdoc_spray_area_text,Spray until the affected area is covered.,Pulverizar até cobrir a área afetada.,Spray until the affected area is covered.
+Doctor_Common,tdoc_spray_hold_figurine,Hold the spray figurine as shown.,Segurar a estatueta de spray como indicado.,Hold the spray figurine as shown.
+Doctor_Common,tdoc_spray_text,Spray many times until the affected area is covered completely,Pulverizar várias vezes até que a área afetada esteja completamente coberta,Spray several times until the affected area is completely covered.
+Doctor_Common,tdoc_spray_tut1,Place the spray figurine on the highlighted area.,Colocar a estatueta de spray na zona destacada.,Place the spray figurine in the highlighted area.
+Doctor_Common,tdoc_spray_tut2,Press the button to begin spraying.,Premir o botão para iniciar a pulverização.,Press the button to start spraying.
+Doctor_Common,tdoc_spray_tut3,Drag around to spray the affected area.,Arrastar para pulverizar a zona afetada.,Drag to spray the affected area.
+Doctor_Common,tdoc_spray_tut4,Spray many times until the affected area is covered completely.,Pulverizar várias vezes até que a área afetada esteja completamente coberta.,Spray several times until the affected area is completely covered.
+Doctor_Common,tdoc_stethoscope_hold_figurine,Hold the stethoscope figurine as shown.,Segurar a figura do estetoscópio como indicado.,Hold the stethoscope figure as shown.
+Doctor_Common,tdoc_stethoscope_text,Place the stethescope figurine.,Colocar a estatueta do estetoscópio.,Place the stethoscope figurine.
+Doctor_Common,tdoc_stethoscope_tut1,Place the stethoscope figurine on the highlighted area.,Colocar a figura do estetoscópio na zona destacada.,Place the stethoscope figure in the highlighted area.
+Doctor_Common,tdoc_stethoscope_tut2,Hold the figurine until the heart rate appears.,Segure a figura até aparecer o ritmo cardíaco.,Hold the figure until the heart rate appears.
+Doctor_Common,tdoc_swipe_text,Swipe left or right.,Deslize para a esquerda ou para a direita.,Swipe left or right.
+Doctor_Common,tdoc_syringe_hold_figurine,Hold the syringe figurine as shown.,Segurar a figura da seringa como indicado.,Hold the syringe figure as shown.
+Doctor_Common,tdoc_syringe_text,Place the syringe figurine.,Colocar a figura da seringa.,Place the syringe figure.
+Doctor_Common,tdoc_syringe_tut1,Place the syringe figurine on the highlighted area.,Colocar a figura da seringa na zona destacada.,Place the syringe figure in the highlighted area.
+Doctor_Common,tdoc_syringe_tut2,Hold the figurine with both hands.,Segurar a estatueta com as duas mãos.,Hold the figurine with both hands.
+Doctor_Common,tdoc_syringe_tut3,Pull the plunger to fill up the syringe.,Puxar o êmbolo para encher a seringa.,Pull the plunger to fill the syringe.
+Doctor_Common,tdoc_syringe_tut4,Push the plunger to empty the syringe.,Empurrar o êmbolo para esvaziar a seringa.,Push the plunger to empty the syringe.
+Doctor_Common,tdoc_temperature_100.0,100.0 °F,100.0 °F,100.0 °F
+Doctor_Common,tdoc_temperature_101.0,101.0 °F,101.0 °F,101.0 °F
+Doctor_Common,tdoc_temperature_102.0,102.0 °F,102.0 °F,102.0 °F
+Doctor_Common,tdoc_temperature_103.0,103.0 °F,103.0 °F,103.0 °F
+Doctor_Common,tdoc_temperature_104.0,104.0 °F,104.0 °F,104.0 °F
+Doctor_Common,tdoc_temperature_97.0,97.0 °F,97.0 °F,97.0 °F
+Doctor_Common,tdoc_temperature_97.8,97.8 °F,97.8 °F,97.8 °F
+Doctor_Common,tdoc_temperature_98.0,98.0 °F,98.0 °F,98.0 °F
+Doctor_Common,tdoc_temperature_98.6,98.6 °F,98.6 °F,98.6 °F
+Doctor_Common,tdoc_temperature_99.8,99.8 °F,99.8 °F,99.8 °F
+Doctor_Common,tdoc_thermometer_hold_figurine,Hold the thermometer figurine as shown.,Segurar a figura do termómetro como indicado.,Hold the thermometer figure as shown.
+Doctor_Common,tdoc_thermometer_tut1,Place the thermometer figurine on the highlighted area.,Colocar a figura do termómetro na zona destacada.,Place the thermometer figure in the highlighted area.
+Doctor_Common,tdoc_thermometer_tut2,Hold the figurine until the temperature appears.,Segurar a estatueta até aparecer a temperatura.,Hold the figurine until the temperature appears.
+Doctor_Common,tdoc_tut_bandage,Learn to use the bandage figurine!,Aprender a utilizar a figura de ligadura!,Learn to use the ligature figure!
+Doctor_Common,tdoc_tut_bloodpressure,Learn to use the blood pressure figurine!,Aprender a utilizar o boneco da tensão arterial!,Learn how to use the blood pressure dummy!
+Doctor_Common,tdoc_tut_end,Great job! You’re all set to play!,Bom trabalho! Está tudo pronto para jogar!,Good job! You&#39;re all set to play!
+Doctor_Common,tdoc_tut_flashlight,Learn to use the flash light figurine!,Aprende a utilizar a estatueta da luz de flash!,Learn how to use the flash light figurine!
+Doctor_Common,tdoc_tut_magnifier,Learn to use the magnifier figurine!,Aprender a utilizar a figura da lupa!,Learn how to use the magnifying glass!
+Doctor_Common,tdoc_tut_medicine,Learn to use the medicine figurine!,Aprender a utilizar a estatueta medicinal!,Learn how to use the medicinal figurine!
+Doctor_Common,tdoc_tut_scissors,Learn to use the scissors figurine!,Aprender a utilizar a figura da tesoura!,Learn how to use the scissors figure!
+Doctor_Common,tdoc_tut_spray,Learn to use the spray figurine!,Aprender a utilizar a estatueta de spray!,Learn how to use the spray figurine!
+Doctor_Common,tdoc_tut_stethoscope,Learn to use the stethoscope figurine!,Aprenda a utilizar o estetoscópio!,Learn how to use a stethoscope!
+Doctor_Common,tdoc_tut_syringe,Learn to use the syringe figurine!,Aprender a utilizar a seringa!,Learn to use the syringe!
+Doctor_Common,tdoc_tut_thermometer,Learn to use the thermometer figurine!,Aprenda a utilizar a estatueta do termómetro!,Learn how to use the thermometer figurine!
+Doctor_Common,tdoc_tut_ultrasound,Learn to use the ultrasound figurine!,Aprender a utilizar a estatueta de ultra-sons!,Learn how to use the ultrasound figurine!
+Doctor_Common,tdoc_tut_xray,Learn to use the X ray figurine!,Aprender a utilizar a estatueta de raios X!,Learn how to use the X-ray figurine!
+Doctor_Common,tdoc_ultrasound_hold_figurine,Hold the ultrasound figurine as shown.,Segurar a estatueta de ultra-sons como indicado.,Hold the ultrasound figurine as shown.
+Doctor_Common,tdoc_ultrasound_text,Place the ultrasound figurine.,Colocar a estatueta de ultra-sons.,Place the ultrasound figurine.
+Doctor_Common,tdoc_ultrasound_tut1,Place the ultrasound figurine on the highlighted area.,Colocar a figura de ultra-sons na zona destacada.,Place the ultrasound figure in the highlighted area.
+Doctor_Common,tdoc_ultrasound_tut2,Drag the figurine to scan the affected area.,Arraste a figura para analisar a área afetada.,Drag the figure to analyze the affected area.
+Doctor_Common,tdoc_xray_hold_figurine,Hold the X-ray figurine as shown.,Segurar a figura de raios X como indicado.,Hold the X-ray figure as shown.
+Doctor_Common,tdoc_xray_text,Place the X-ray figurine.,Colocar a estatueta de raios X.,Place the X-ray figurine.
+Doctor_Common,tdoc_xray_tut1,Place the X-ray figurine on the highlighted area.,Colocar a estatueta de raios X na zona assinalada.,Place the X-ray figurine in the marked area.
+Doctor_Common,tdoc_xray_tut2,Drag the figurine to scan the affected area.,Arraste a figura para analisar a área afetada.,Drag the figure to analyze the affected area.
