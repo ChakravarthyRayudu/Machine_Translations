@@ -10,7 +10,5 @@ __pycache__/
 # Ignore credentials
 credentials.yaml
 
-# Ignore sensitive configuration files (if any)
-config.py
 
 # Ignore any other files that should not be pushed
